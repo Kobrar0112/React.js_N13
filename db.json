@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Audi A4",
+      "description": "2022",
+      "price": 3780000,
+      "category": "Седан",
+      "images": [
+        "https://avatars.mds.yandex.net/get-autoru-vos/1871422/b814ac324e5f53f1dfb46790b8d5aefb/1200x900n",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukVs4vpZ0XiOCyCN2ZTmf3SuYfRXoVEWeHHu5ZP5TPsaBUcyoBzRw_TQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukNu6PFX3HmXRSHZjsnmKXKtNfFf-VQUInzn78T_RqhOBEQyoR6AnvXO1f_GrfX58jR171M_RoYIhnnGHggVr_QHK7_sE50S_ko3v421ySIClkamDq4XUxIKrJC53Sj_WGkBRe9tkqC_nbCYo-eE2YJXC9ZKGWmROZRy2i8VCLX3Hze9pAm6AucCNoyPgsE9H7ZhrDWOCGM5AaevltE",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2074245/edc3f6c7537714b425c08bf3be1ae871/1200x900n",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukBu5_BQ2HSOC3za28fiKCCpOPFWpVYRcim9spSqGvodBUVooxqEzafQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukdt4_FV3HiOWHzdjpWzeXD7NPFX8wIdcni64MGvTaEQB0A5oErVnqfQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://avatars.mds.yandex.net/get-autoru-vos/4892850/025b1b7126ec3e5ddb62fd4fefdf4e41/1200x900n",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukds5_pZ0XiOXSDeicKzciOuOacE914Wc3vn58r5SKgcAhQz8xHey6DQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukBu4_FQ0XyOUnbZ0JKzeyD9Y_RSoQRGeS28tMf5TP1MBUUy8BrVzfHQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Exeed VX",
+      "description": "2024",
+      "price": 5890000,
+      "category": "SUV",
+      "images": [
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukBu4_ZU2XWOU3aJ0ZG3L3H-Y_cG8gNBInu4tcX9Tv0ZCUUy8RzWnvfQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukNm5_RQ3n-OW3DR25HiL3b2MqcC9FARdyq_t8f6RqobCUU89h2Em6HQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukNn5_NS0XyOC3yJjMGycnyuY_gEowQRdnm6ssD9Sa0QAkE5ox3WmfLQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukBu5vdQ23-OD3GN2sTlc3CtY6AG8F9Bdinp7pD4HKsYBRE-pRDfzfbQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukNn5_NU23SOXXXY3cbmfiT5YvJfpgZGeSno5ZGvTvtMBBY58xrRzqPQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://avatars.mds.yandex.net/get-autoru-vos/4470305/29a363a09a3d32fca3de4d2425d5e822/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2077743/15adb29dd4130282609019de02caa73a/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/10306254/994e4d9ac2301e3062eef73caa2c248f/1200x900n",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukNm6fVR0H6OWyOO3pO4K3X3M_kBpVRBIHjr4MCoTqxOCRNo9BmCz_XQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukNu4_tW0HqRRSCO28e1ciD6MPYGogUccirpssCsGPoYCEs-pxqFyKeZ1f_GrfX58jR171M_RoYIhnnGHggVr_QHK7_sE50S_ko3v421ySIClkamDq4XUxIKrJC53Sj_WGkBRe9tkqC_nbCYo-eE2YJXC9ZKGWmROZRy2i8VCLX3Hze9pAm6AucCNoyPgsE9H7ZhrDWOCGM5AaevltE",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukBv5_ZV0X-OW33c3ZXleSf_ZaNUpVccdXDmssv4T6pLCRMz9EnVm_zQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukBv5vpY2H6OCXTbjZWxeyerMPhVpFQWcS2648P4SKARABBt9BDQnKbQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukBu4PdS2n6OD3PdjMmyfnH-ZfNWpF9CcH-7tJevTfkaBRdpoBHVwqbQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukBu5ftY236OCXLQicizeyasMvVR9wNFd3-_s5b-SfpMAxY_8RHSyPTQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://avatars.mds.yandex.net/get-autoru-vos/1711983/e4a18935a1ff7318762d30b8bdf1c42f/1200x900n"
+
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mercedes-Benz C43",
+      "description": "2019",
+      "price": 6700000,
+      "category": "Кабриолет",
+      "images": [
+        "https://avatars.mds.yandex.net/get-autoru-vos/2101859/cbe29d35fe66908adb166963e0a108a3/1200x900n",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukBu5fdU3HSOUnWM2cnlKHKqYfRf-QIUJSq94JGpHKFNUxZo8E2CyaPQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://avatars.mds.yandex.net/get-autoru-vos/5378276/a6bf5eb2b928d4d81afbfdc66696c006/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2163955/adf5949951cd40dbd6558eb9da7f2565/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2176887/0985904afbe9e5cde26202b1f7c29f4b/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/4887817/eb3b61bd26ef94a0eee242dc1f316ab3/1200x900n",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukdq4PZU23mOUnCJ3MixcyOrNvIF9FMXdnDm4cKtHP1MU0Nu9xnWzKDQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2162551/f81fbc343fa42bf7ca20170a2a38ec70/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/11396122/22887d19d2d099dc84f976bb28b5a3ed/1200x900n",
+        "https://yastatic.net/naydex/autoru/1E3reW206/2aa298Z_G/3hPoK-VpDXGbxW8iDpJGeq4yzq-S_KyLkeE1msj62ROF6OTOSukBu5fVR0HWOWyCJisK0KSf-MaBWolYdcXDpssKsHKweBEU-rRnVy_zQy_zErb24-zQr3lMhRoUVlmTdEAYSgOAGMP6wFLcSgRgSja256A0ciWeoCbAQdwM6mJ20zRnocUM8cdBcvICntayZjtydyJhKEsd1DlG0B5147A0bCIP4GjK2qjOnC8kZIY-asfcQPK5tkymvIFwIMaeyuNc"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Zeekr 001",
+      "description": "2021",
+      "price": 6900000,
+      "category": "Электро",
+      "images": [
+        "https://avatars.mds.yandex.net/get-autoru-vos/2078234/a0f37d244de19e767fca9665530f3067/1200x900n",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHESLitzQnQdAbm4uAWe3TCcQiY2f63edsQyMOCOBHewJAhqom9eCgCl-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHESKjNvamw1AOWMoB260SSEShd7K7HCfuVvfNXeJTehfDhaunoeA1y1-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHESKgN_dnQpAMDR9B2nhSCcShN6Z6Sec6FrfYieKSugLXRWnnoCA1Xp-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHEOCgNrcnQhAam94DG_sSCRGgY-Y63KZuFzXNX3cHbgJCRv9y4DR1X9-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHEOPgdvdlg9AOWcuAju2TnBG1ICd6HaYvFnfNnOOTbdeDhemmNOC1Sl-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2155525/ab40ccd101eb99b7915a4950545afa11/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2165616/38b065f6455d7297332b4d9807d0213a/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2154122/af7b78beb297536f8a20b25cab0a4fb3/1200x900n",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHESKjt7YmAhAP2R0DWftSSZB1tvJ6XSesF3XMXzaGb4NWRr4zIuB3i9-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHEeCgdjZlg1AbGR_UGriSXZH1o2YuiWU7wzcZHONT7xcXhSunYOH1il-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHESKjtfcnwlAPWB8UWviGSdBiYqevnDI7w_WYiOOGu8FCUOtyIqP0H1-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "RAM 1500",
+      "description": "2018",
+      "price": 7150000,
+      "category": "Пикап",
+      "images": [
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHEeCgNjamQtAODQqAm_mRHBF0oqavXibsA3WZSeLSbcMWRf8n4PW3i1-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2172506/62b33b96bb79ccac320a6432f80013ff/1200x900n",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHESLj9fenQtAbG8pUG6xRSAUgd3OuneZ7wrcNnCPHrZfXRCvyYaOhHh-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHESJiN3QmQxAPjUuADu0RXBIhN2a7XKZv17dMyGITOoPDhesmYqG13l-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHEOJi9rbnQZAOGIoV2_jSCdJ0tqf7CCcv1DcOCSKTesEXhGpmIqChCp-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://avatars.mds.yandex.net/get-autoru-vos/4590381/250373c1b3a229d4775937487a755f8a/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2102536/92098c09c4e5a83265bb18bf473d8ad3/1200x900n",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHESLgN_Zmw1AO28tADzhGCIS1Nme6CSduw_aYXTbQ7kMA0GryIqE1Sl-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://avatars.mds.yandex.net/get-autoru-vos/1698998/068677aefe6994a31a690dd8437b2b26/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/6050740/c554d4dd2f2097fbab1c272906a9cb77/1200x900n",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHESKjtnanw5APGIqA23mSiUQhYnJ73LIu1_cYiSLH-xZDECrnoPW0Sl-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2165736/3edc13f34769a404e8880f26a7dafd38/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/6053064/b3d4a6eae65200d79e0c134bb69c6d74/1200x900n",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHEOJitjQmQpAP2QoVmbsRHEQ0ozN5iSbuFvdOSOBGL5cXhavnoGH131-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHEeNgN7YmwdAPjYuVm7sHitJgduY6CKf71DdOHDcTLxeDkSmnNGO33h-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHEOCjtnQnwZAO2d-ATvmGSEVgYzK6HOVuFDYMHGMTLhZChP8mtCD0Xl-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHEeDj9zbnAdAMDUqUGjjSiBJg9rOvXjPvFyKNXWKGLgIDxurnIWA1SN-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://avatars.mds.yandex.net/get-autoru-vos/4565503/c23f082992d8a1775d39cc09534a275e/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/11317885/d3a4648ea8fa1a9233686a81d2db0b32/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/4365524/f8db7c3727e71a050ceaf93206dd21b5/1200x900n",
+        "https://yastatic.net/naydex/autoru/nvJn26086/c02221Rs/FhM9gP709IDPPJwZmfej_KLcX2EkGIFlNOnxXmMGIzxHFPE1VhHESKgN_flw5AOGR5UmbiHysXgI_EvSTLvluNYSOOTb8MX0annYuPgCl-n3qN6AQdzAladLR5xgdJE-RNJSx0c0YC1JadnPFhT0I5Olo2vw1aC_jBnpANzv4MvnQ_8jriRXBEz-TE_YNOGNQh_7E_UJZSXmi9W-oSYBjmVwY1SGJFBd_bqqPeUAxjNQ51OZQaRifi4Iu9D-jeILphHPY",
+        "https://avatars.mds.yandex.net/get-autoru-vos/1651028/edfcbd270b124e6defd03bc2d9baa88d/1200x900n"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Voyah Dream",
+      "description": "2024",
+      "price": 9050465,
+      "category": "Гибрид",
+      "images": [
+        "https://avatars.mds.yandex.net/get-autoru-vos/1545460/e48331b5c8e4f09a97663f6037a62949/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2023615/50f8a85295c056b203762e64e86192ce/1200x900n",
+        "https://avatars.mds.yandex.net/get-autoru-vos/1938005/ef16d3b1786df1da4ee211c486466072/1200x900n",
+        "https://yastatic.net/naydex/autoru/Apl1P3991/5f0154eoCqLQ/r_tuNM6PVEQ9IVAL-6EHlW21GrIvLhi-R6lb6yFT1tozU6ba2rOuxd21q3GL3d8oWFaZ1aTsqFNzW56jSfqG8IuLX1BvKsFATKDwX-70cxSM0N7z3726CIWqKVkjUBB5wUKDfr9SGpHbU0uEyfu-SdpUTYaEmTtD0g2L0v_5MoDeGt2E-M0WxInicVmJo4ZyLZbb1o4NWLpXexqZoFHCSDEBEp0v9_nSKEJ9NQtLPxkq9l5H1fjIkENvugN_yxOB8",
+        "https://avatars.mds.yandex.net/get-autoru-vos/5234572/9066f5db35ab6ac80571dbb147979de0/1200x900n",
+        "https://yastatic.net/naydex/autoru/Apl1P3991/5f0154eoCqLQ/r_tuNM6PVEQ9IVAL-6EHlW21GrIvLhi-R6lb6yFT1tozU6bauqOO1R3Vu3QbzSrdaHap4MFM7fYTW6vG3L-GkP6u-iBvSpFFGfXVn-70cxSM0N7z3726CIWqKVkjUBB5wUKDfr9SGpHbU0uEyfu-SdpUTYaEmTtD0g2L0v_5MoDeGt2E-M0WxInicVmJo4ZyLZbb1o4NWLpXexqZoFHCSDEBEp0v9_nSKEJ9NQtLPxkq9l5H1fjIkENvugN_yxOB8",
+        "https://avatars.mds.yandex.net/get-autoru-vos/2167791/13d29d74a47dab56f65298d69e8af978/1200x900n",
+        "https://yastatic.net/naydex/autoru/Apl1P3991/5f0154eoCqLQ/r_tuNM6PVEQ9IVAL-6EHlW21GrIvLhi-R6lb6yFT1tozU6ba2rOe5e2V23ErjSp9CFOcleG5nRbWnu7DHKrT9f7ubwDP-tGFGaVQL-70cxSM0N7z3726CIWqKVkjUBB5wUKDfr9SGpHbU0uEyfu-SdpUTYaEmTtD0g2L0v_5MoDeGt2E-M0WxInicVmJo4ZyLZbb1o4NWLpXexqZoFHCSDEBEp0v9_nSKEJ9NQtLPxkq9l5H1fjIkENvugN_yxOB8"
+       
+      ]
+    }
+  ]
+}
